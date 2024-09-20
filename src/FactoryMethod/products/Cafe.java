@@ -1,6 +1,6 @@
-package products;
+package FactoryMethod.products;
 
-import interfaces.Bebida;
+import FactoryMethod.interfaces.Bebida;
 
 //classe concreta CAFE que implementa a interface Bebida
 public class Cafe implements Bebida {

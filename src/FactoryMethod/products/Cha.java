@@ -1,6 +1,6 @@
-package products;
+package FactoryMethod.products;
 
-import interfaces.Bebida;
+import FactoryMethod.interfaces.Bebida;
 
 //classe concreta CHA que implementa a interface Bebida
 public class Cha implements Bebida {

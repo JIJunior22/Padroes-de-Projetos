@@ -1,4 +1,4 @@
-package interfaces;
+package FactoryMethod.interfaces;
 
 //Definir a Interface Bebida
 public interface Bebida {

@@ -1,5 +1,5 @@
-import creators.FabricaCafe;
-import creators.FabricaCha;
+import FactoryMethod.creators.FabricaCafe;
+import FactoryMethod.creators.FabricaCha;
 
 public class Main {
     public static void main(String[] args) {

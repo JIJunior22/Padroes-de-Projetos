@@ -1,7 +1,7 @@
-package creators;
+package FactoryMethod.creators;
 
-import interfaces.Bebida;
-import products.Cha;
+import FactoryMethod.interfaces.Bebida;
+import FactoryMethod.products.Cha;
 
 
 //classe concreta que estende a classe BebidaFactory: FabricaCha. Esta classe implementa o método criarBebida() para retornar uma instância da bebida correspondente.

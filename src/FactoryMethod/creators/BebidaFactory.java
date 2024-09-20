@@ -1,6 +1,6 @@
-package creators;
+package FactoryMethod.creators;
 
-import interfaces.Bebida;
+import FactoryMethod.interfaces.Bebida;
 
 
 // Define uma classe abstrata chamada BebidaFactory com um método abstrato criarBebida().
